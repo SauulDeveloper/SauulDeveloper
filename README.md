@@ -9,7 +9,7 @@
 
 ![Saul GitHub stats](https://github-readme-stats.vercel.app/api?username=SauulDeveloper&show_icons=true&theme=onedark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SauulDeveloper)](https://github.com/anuraghazra/github-readme-stats) <a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/5e1ad86aa80bdcac1c24c9979543eeb8.gif" width="50" height="50" border="0" alt="https://picasion.com/" /></a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SauulDeveloper)](https://github.com/anuraghazra/github-readme-stats) <img src="https://i.picasion.com/pic92/5e1ad86aa80bdcac1c24c9979543eeb8.gif" width="50" height="50" border="0" alt="https://picasion.com/" /></a>
 
 ## Tecnologias que eu utilizo
 
